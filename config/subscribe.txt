@@ -3,9 +3,33 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
-
-
-
+https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/main/iptv.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/main/live_lite.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/skddyj/iptv/main/IPTV.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/jiangnan1224/iptv_ipv4_live/main/iptv.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/zhi35/iptv/master/iptv.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/liuchuang0321/K-TV/master/output/ipv4/result.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/zilong7728/Collect-IPTV/main/best_sorted.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/best-fan/iptv-sources/main/cn_all.m3u8
+https://gh-proxy.com/https://raw.githubusercontent.com/mzky/checklist/master/itvlist.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-API/main/cmlive.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/yanghanhanyingshi/GYYS/main/best_sorted.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/iptv.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/qingtian6325-lang/IPTV/main/mytv.m3u
+https://testingcf.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u
+https://guovin.github.io/iptv-api/result.txt
+https://live.zhoujie218.top/tv/iptv4.txt
+https://live.zbds.top/tv/iptv4.txt
+https://iptv.zsdc.eu.org/home/iptv.m3u8
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
