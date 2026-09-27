@@ -2,3 +2,15 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 bxtv.3a.ink
+catvod
+207.56.13.146
+live.264788.xyz
+ali-m-l.cztv.com
+107.150.60.122
+38.75.136.137
+192.151.150.154
+173.208.212.130
+198.204.228.26
+bztv.tvbus.cc
+74.91.26.218
+204.12.221.218
