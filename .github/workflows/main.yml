@@ -10,16 +10,16 @@ name: Generate playlist manually
 
 on:
   workflow_dispatch:
-    schedule:
-    - cron: '45 21 * * 4'   # 北京时间每周五凌晨 5:45 = UTC 周四 21:45
+  schedule:
+    - cron: '45 21 * * 4'   # UTC 周四 21:45 = 北京时间周五 05:45
     
 permissions:
   contents: write   # 授予内容读写权限
-
+  
 concurrency:
   group: playlist-release-${{ github.repository }}
   cancel-in-progress: false
-
+  
 jobs:
   generate:
     runs-on: ubuntu-latest
