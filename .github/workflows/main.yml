@@ -1,13 +1,5 @@
 name: Generate playlist manually
 
-# ⚠️注意：请不要在 fork 的仓库中添加 `on: schedule` 定时任务（cron）。
-# 生成结果只能通过 Pages Artifact、每次运行独立的 Release 或外部端点发布，不得提交回 Git。
-# 如需要频繁更新或定时执行，请使用 Docker、命令行、GUI 或外部对象存储。
-#
-# ⚠️NOTICE: Do NOT add `on: schedule` cron triggers in forked repositories.
-# Publish generated results only through a Pages artifact, a per-run release, or an external endpoint; never commit them to Git.
-# Use Docker, the CLI, the GUI, or external object storage for frequent or scheduled runs.
-
 on:
   workflow_dispatch:
   schedule:
