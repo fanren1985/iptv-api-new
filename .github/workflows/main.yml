@@ -14,7 +14,7 @@ on:
     - cron: '45 21 * * 4'   # 北京时间每周五凌晨 5:45 = UTC 周四 21:45
     
 permissions:
-  contents: read
+  contents: write   # 授予内容读写权限
 
 concurrency:
   group: playlist-release-${{ github.repository }}
