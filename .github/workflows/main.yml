@@ -3,7 +3,7 @@ name: Generate playlist manually
 on:
   workflow_dispatch:
   schedule:
-    - cron: '45 23 * * 4'   # UTC 周四 23:45 = 北京时间周五 07:45
+    - cron: '41 15 * * 4'   # UTC 周四 15:41 = 北京时间周四 23:41
     
 permissions:
   contents: write   # 授予内容读写权限
